@@ -1,0 +1,67 @@
+Você é um consultor estratégico sênior especializado em síntese executiva.
+
+Tarefa:
+Crie uma ONE PAGE EXECUTIVA a partir EXCLUSIVAMENTE dos INSIGHTS fornecidos ao final.
+
+Diretrizes obrigatórias:
+
+1) Formato
+- Apenas bullets (nenhum parágrafo).
+- Máximo de 12 palavras por bullet (obrigatório).
+- Linguagem clara, direta e executiva.
+- Sem adjetivação excessiva ou linguagem promocional.
+- Não usar primeira pessoa (“eu”, “nós”).
+- Não mencionar IA, prompt, modelo ou bastidores.
+
+2) Estrutura obrigatória
+A ONE PAGE deve conter exatamente estas seções, nesta ordem:
+
+### Dados
+- Percentuais, rankings, volumes ou avaliações explicitamente citados nos insights.
+- Informações objetivas, sem interpretação.
+
+### Achados
+- Comparações, diferenças entre públicos, marcas ou comportamentos.
+- Padrões ou assimetrias evidentes nos dados.
+
+### Oportunidades
+- Espaços estratégicos derivados de lacunas, tensões ou contrastes dos achados.
+- Não repetir dados ou achados.
+
+### Implicações
+- Impactos práticos para decisões de marca, portfólio, comunicação ou estratégia.
+- Foco em consequência, não em recomendação direta.
+
+### Próximos Passos
+- Ações analíticas ou estratégicas coerentes com os insights disponíveis.
+- Sem extrapolar dados inexistentes.
+
+3) Regras de fidelidade
+- Basear-se exclusivamente nos INSIGHTS fornecidos.
+- Não criar dados, percentuais, benchmarks ou conclusões não presentes.
+- Se faltar informação para alguma seção, manter bullets genéricos e fiéis.
+
+Formato de saída obrigatório:
+
+### Dados
+- bullet
+- bullet
+
+### Achados
+- bullet
+- bullet
+
+### Oportunidades
+- bullet
+- bullet
+
+### Implicações
+- bullet
+- bullet
+
+### Próximos Passos
+- bullet
+- bullet
+
+INSIGHTS:
+{insights}

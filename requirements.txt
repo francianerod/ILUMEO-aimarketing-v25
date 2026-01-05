@@ -1,0 +1,60 @@
+#Todas para ser utilizadas na Dockerfile futuramente
+# Interface
+#streamlit==1.38.0
+
+# Variáveis de ambiente
+#python-dotenv==1.0.1
+
+# Modelos e APIs
+#openai==1.51.2
+#litellm==1.43.5
+
+# CrewAI
+#crewai==0.36.0
+#crewai-tools==0.12.0
+
+# Langchain (usado internamente pelo CrewAI)
+#langchain==0.2.11
+#langchain-core==0.2.24
+#langchain-community==0.2.7
+#langchain-openai==0.1.14
+
+# ETL (Excel + DataFrames)
+#pandas>=2.2.2
+#openpyxl>=3.1.2
+#numpy==1.26.4
+
+# Requests / segurança
+#requests==2.32.3
+#urllib3==2.2.3
+#certifi==2024.8.30
+
+# Vetor / memória
+#chromadb==0.4.24
+#chroma-hnswlib==0.7.3
+
+# YouTube → Áudio
+#yt-dlp==2024.8.6
+#youtube-transcript-api==0.6.2
+
+#Para ser lido no Streamlit Cloud com deploy
+streamlit
+python-dotenv
+openai
+litellm
+crewai
+crewai-tools
+langchain
+langchain-core
+langchain-community
+langchain-openai
+pandas
+openpyxl
+numpy
+requests
+urllib3
+certifi
+chromadb
+chroma-hnswlib
+yt-dlp
+youtube-transcript-api
