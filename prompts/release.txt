@@ -22,7 +22,7 @@ DIRETRIZES OBRIGATÓRIAS
 2) Estrutura obrigatória (pirâmide invertida)
 O release DEVE conter, nesta ordem:
 
-- Título (curto e informativo)
+- Título (informativo com algum valor percentual (%) relevante como chamada de impacto)
 - Subtítulo (1 linha, opcional)
 - Corpo do texto com 5 a 10 parágrafos curtos
 - Um parágrafo contendo UMA citação direta de Diego Senise
