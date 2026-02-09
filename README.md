@@ -122,7 +122,7 @@ A aplicação será aberta automaticamente no navegador.
 📁 Estrutura do Projeto
 Plaintext
 
-├── aimarketing25.py
+├── aimarketing26.py
 ├── etl_ilumeo2.py
 ├── prompts/
 │   ├── linkedin.txt
@@ -144,4 +144,5 @@ Plaintext
 ILUMEO não é um experimento de IA, mas uma plataforma orientada à tomada de decisão, construída para gerar valor real.
 * Período de desenvolvimento: 27/09/2025 a 26/12/2025.
 * Publicação oficial: 05/01/2026
+* Versão atualizada: 09/02/2026
 
